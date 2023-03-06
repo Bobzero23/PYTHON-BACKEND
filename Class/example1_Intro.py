@@ -41,7 +41,7 @@ for fruit in fruits:
 
 def sayMyName():
     name = "Bobzero"
-    print("Hello, " + name)
+    print("Hello, " + name + "WELCOME!!")
 
 
 sayMyName()
