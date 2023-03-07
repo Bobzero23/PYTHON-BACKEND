@@ -45,3 +45,9 @@ def sayMyName():
 
 
 sayMyName()
+
+
+x = 5: lambda a + 10
+
+
+print(x(5))
